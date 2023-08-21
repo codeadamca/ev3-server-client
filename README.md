@@ -4,7 +4,11 @@ A Python snippet using two EV3 bricks, a touch sensor, a motor, and [Pybricks](h
 
 This example connects two EV3 bricks over Bluetooth. When the touch sensor is pushed on the sever EV3 brick the motor on the client EV3 brick turns. 
 
-The [Documentation for Pybricks](https://docs.pybricks.com/en/latest/ev3devices.html) is really helpful.
+***
+
+## Repo Resources
+
+- [Pybricks - Documentation](https://docs.pybricks.com/en/latest/ev3devices.html)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
